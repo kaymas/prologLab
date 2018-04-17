@@ -1,0 +1,1 @@
+add(X,Y) :- Sum is X + Y, write('sum of the numbers is '), write(Sum).
